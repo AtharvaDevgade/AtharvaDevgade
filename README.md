@@ -1,184 +1,355 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="assets/dark.svg" alt="Atharva's Profile Banner" width="100%"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Automation+Builder;Open+Source+Enthusiast;Linux+User" alt="Typing SVG" />
-
-</div>
-
----
-
-## Hi 👋 I'm Atharva
-
 ```
-╔═══════════════════════════════════════════════════╗
-║                                                   ║
-║   Building modern web applications,               ║
-║   AI automation workflows and                     ║
-║   open-source projects.                           ║
-║                                                   ║
-╚═══════════════════════════════════════════════════╝
+ █████╗ ██████╗ ████████╗██╗  ██╗██████╗  █████╗ ██████╗ ███████╗
+██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝
+███████║██████╔╝   ██║   ███████║██████╔╝███████║██████╔╝█████╗
+██╔══██║██╔══██╗   ██║   ██╔══██║██╔══██╗██╔══██║██╔═══╝ ██╔══╝
+██║  ██║██████╔╝   ██║   ██║  ██║██████╔╝██║  ██║██║     ███████╗
+╚═╝  ╚═╝╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚══════╝
 ```
 
-### 📍 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+%7C+AI+Automation+%7C+Linux+%7C+Open+Source" alt="Typing SVG" />
 
-- 🔭 Currently working on **MERN Stack Projects**
-- 🌱 Exploring **AI Automation** and **Open Source**
-- 💻 Passionate about **Full Stack Development**
-- 🐧 **Linux** enthusiast
-- 🐳 Learning **Docker** and containerization
-- 🤖 Building **AI Agents** with **Ollama** and **n8n**
+[![trophy](https://github-profile-trophy.vercel.app/?username=AtharvaDevgade&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-### 🎯 Current Focus
-
-| Area | Technologies |
-|------|-------------|
-| **MERN Stack** | MongoDB, Express.js, React, Node.js |
-| **AI Automation** | Ollama, n8n, Activepieces, Python |
-| **DevOps** | Docker, Linux, Git |
-| **Frontend** | React, Next.js, TailwindCSS |
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Programming
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+[![wakatime](https://wakatime.com/badge/user/a1b2c3d4-e5f6-7890-abcd-ef1234567890.svg)](https://wakatime.com/@AtharvaDevgade)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtharvaDevgade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaDevgade&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaDevgade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-![Atharva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AtharvaDevgade&theme=tokyonight&hide_border=true&color=22D3EE&line=7C3AED&point=10B981&area=true&area_color=22D3EE)
-
----
-
-### 🏆 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Portfolio Website** | Modern personal portfolio | React, TailwindCSS |
-| **AI Chatbot** | Ollama-powered chatbot | Python, Ollama |
-| **Task Manager** | Full stack task management | MERN Stack |
-| **Automation Workflows** | n8n workflow automations | n8n, API |
-
----
-
-### 🎯 Featured Skills
+## `atharva@github:~$ neofetch`
 
 ```
-┌─────────────────────────────────────────────────────┐
-│  ████████████████████████████████  React            │
-│  ██████████████████████████████    Node.js          │
-│  ████████████████████████████      Express.js       │
-│  ██████████████████████████        MongoDB          │
-│  ████████████████████████          Python           │
-│  ██████████████████████            Docker           │
-│  ████████████████████              Linux            │
-│  ██████████████████                AI Agents        │
-└─────────────────────────────────────────────────────┘
+    .--.          atharva@github
+   |o_o |         ─────────────────────────────
+   |:_/ |         OS: Linux (Arch-based mind)
+  //   \ \        Host: GitHub Profile v2.0
+ (|     | )       Kernel: Open Source Philosophy
+/'\_   _/`\       Shell: Bash + Zsh
+\___)=(___/       Editor: Neovim / VS Code
+                  Uptime: Coding since 2025
+                  Packages: 18+ Technologies
+                  Resolution: 1920x1080 (Mind)
+                  Theme: Cyber Dark
+                  Terminal: Premium Cyberpunk
 ```
 
 ---
 
-### 🏅 Achievements
+## `> cat about.log`
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  NAME      : Atharva                                         │
+│  ROLE      : Full Stack Developer                            │
+│  LOCATION  : India                                           │
+│  STATUS    : Online                                          │
+│  CLEARANCE : Root Access                                     │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  > Building modern web applications,                         │
+│    AI automation workflows and                               │
+│    open-source projects.                                     │
+│                                                              │
+│  > Fueled by curiosity, caffeine, and terminal commands.     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> cat learning.txt`
+
+<details>
+<summary><b>[ + ] Currently Learning</b></summary>
+
+```
+├── MERN Stack ............ MongoDB, Express, React, Node
+├── AI Automation ......... Ollama, n8n, Activepieces
+├── DevOps ................ Docker, CI/CD, Cloud
+├── Linux ................. Arch, Bash, Shell Scripting
+├── Python ................ AI/ML, Automation Scripts
+├── Databases ............. PostgreSQL, MongoDB
+└── System Design ......... Architecture, Patterns
+```
+
+</details>
+
+<details>
+<summary><b>[ + ] Interests</b></summary>
+
+```
+├── Open Source Contributing
+├── AI Agents & Automation
+├── Web Development
+├── UI/UX Design
+├── Linux & Terminal Tools
+├── DevOps & Containerization
+└── Building SaaS Products
+```
+
+</details>
+
+---
+
+## `> cat focus.sh`
+
+```
+┌────────────────────────────────────────────────────────────┐
+│                    CURRENT MISSIONS                        │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  [■] AI Projects ............... Building intelligent apps  │
+│  [■] SaaS Products ............. Full stack development     │
+│  [■] Automation Workflows ...... n8n + Activepieces        │
+│  [■] Open Source ............... Contributing to community  │
+│  [■] Fiverr Portfolio .......... Freelance projects         │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> ls tech-stack/`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AtharvaDevgade&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+```
+┌─────────────────────────────────────────────────────────────┐
+│                      TECH ARSENAL                           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  FRONTEND                                                   │
+│  ─────────                                                  │
+│  [HTML5] [CSS3] [JavaScript] [TypeScript] [React]           │
+│  [Next.js] [TailwindCSS]                                    │
+│                                                             │
+│  BACKEND                                                    │
+│  ────────                                                   │
+│  [Node.js] [Express] [MongoDB] [PostgreSQL] [Firebase]      │
+│                                                             │
+│  TOOLS                                                      │
+│  ─────                                                      │
+│  [Python] [Docker] [Git] [GitHub] [Linux] [Bash]            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 </div>
 
 ---
 
-### 📚 Currently Learning
+## `> cat featured-projects.log`
 
-- ⚛️ **React** - Advanced patterns and hooks
-- 🟢 **Node.js** - Scalable backend development
-- 🍃 **Express.js** - RESTful API design
-- 🍂 **MongoDB** - Database optimization
-- 🎨 **Docker** - Container orchestration
-- 🐍 **Python** - AI/ML applications
-- 🤖 **AI Agents** - Autonomous systems
-- 🏗️ **System Design** - Architecture patterns
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```
+┌─────────────────────────────────┐
+│  [PROJECT] E-Commerce Website   │
+├─────────────────────────────────┤
+│  STATUS    : Active             │
+│  TECH      : MERN Stack         │
+│  FEATURES  : Auth, Payments,    │
+│              Dashboard, API     │
+│  PRIORITY  : High               │
+└─────────────────────────────────┘
+```
+
+</td>
+<td>
+
+```
+┌─────────────────────────────────┐
+│  [PROJECT] AI Resume Analyzer   │
+├─────────────────────────────────┤
+│  STATUS    : In Development     │
+│  TECH      : Python, AI/ML      │
+│  FEATURES  : NLP, Scoring,      │
+│              PDF Parsing        │
+│  PRIORITY  : High               │
+└─────────────────────────────────┘
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+```
+┌─────────────────────────────────┐
+│  [PROJECT] Automation Dashboard │
+├─────────────────────────────────┤
+│  STATUS    : Active             │
+│  TECH      : n8n, Activepieces  │
+│  FEATURES  : Workflows, APIs,   │
+│              Monitoring         │
+│  PRIORITY  : Medium             │
+└─────────────────────────────────┘
+```
+
+</td>
+<td>
+
+```
+┌─────────────────────────────────┐
+│  [PROJECT] Portfolio Website    │
+├─────────────────────────────────┤
+│  STATUS    : Live               │
+│  TECH      : React, TailwindCSS │
+│  FEATURES  : Responsive,        │
+│              Animations, SEO    │
+│  PRIORITY  : Medium             │
+└─────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 📫 Contact
+## `> cat github-stats.sh`
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                     SYSTEM MONITOR                           │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  CPU USAGE      : ████████████████████████░░░░░░ 85%         │
+│  MEMORY         : ██████████████████░░░░░░░░░░░░ 65%         │
+│  CONTRIBUTIONS  : ████████████████████████████░░ 92%         │
+│  PRODUCTIVITY   : ██████████████████████████████ 100%        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AtharvaDevgade&show_icons=true&theme=darkhub&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaDevgade&theme=darkhub&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9" width="49%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaDevgade&layout=compact&theme=darkhub&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00D4FF&text_color=C9D1D9" width="40%" />
+
+</div>
+
+---
+
+## `> cat snake.log`
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/AtharvaDevgade/AtharvaDevgade/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
+---
+
+## `> cat contact.sh`
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                    ESTABLISH CONNECTION                      │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  [GitHub]    --> github.com/AtharvaDevgade                   │
+│  [LinkedIn]  --> linkedin.com/in/atharvadevgade              │
+│  [Twitter/X] --> x.com/atharvadevgade                        │
+│  [Portfolio] --> atharvadevgade.dev                          │
+│  [Email]     --> atharva@atharvadevgade.dev                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharvaDevgade)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvadevgade)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharva@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atharvadevgade)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://atharvadevgade.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharva@atharvadevgade.dev)
 
 </div>
 
 ---
 
+## `> cat metrics.log`
+
 <div align="center">
 
-### 💡 Philosophy
+[![GitHub Streak](https://streak-stats.demolab.com?user=AtharvaDevgade&theme=darkhub&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF)](https://git.io/streak-stats)
 
-```
-"Code is like humor. When you have to explain it, it's bad."
-```
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtharvaDevgade&theme=dark&hide_border=true&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&area_color=00D4FF&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Visitors](https://komarev.com/ghpvc/?username=AtharvaDevgade&color=22D3EE&style=for-the-badge&label=Profile+Views)
+</div>
 
 ---
 
-*Crafted with precision by Atharva*
+## `> cat footer.log`
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=AtharvaDevgade&color=00D4FF&style=flat-square&label=PROFILE+VIEWS)
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│         ██████╗ ██████╗ ███████╗██╗     ██╗     ██╗████████╗│
+│        ██╔════╝██╔═══██╗██╔════╝██║     ██║     ██║╚══██╔══╝│
+│        ██║     ██║   ██║█████╗  ██║     ██║     ██║   ██║   │
+│        ██║     ██║   ██║██╔══╝  ██║     ██║     ██║   ██║   │
+│        ╚██████╗╚██████╔╝███████╗███████╗███████╗██║   ██║   │
+│         ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝   ╚═╝  │
+│                                                              │
+│              "Code. Build. Learn. Repeat."                   │
+│                                                              │
+│         ─────────────────────────────────────────            │
+│          Crafted with precision by Atharva                   │
+│         ─────────────────────────────────────────            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 </div>
