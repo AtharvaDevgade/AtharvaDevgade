@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+%7C+AI+Automation+%7C+Linux+%7C+Open+Source" alt="Typing SVG" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AtharvaDevgade&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AtharvaDevgade&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
