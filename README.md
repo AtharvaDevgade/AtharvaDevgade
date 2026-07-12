@@ -161,6 +161,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="assets/python-logo.svg" alt="Python" width="150"/>
+
+</div>
+
 ---
 
 ## `> cat featured-projects.log`
