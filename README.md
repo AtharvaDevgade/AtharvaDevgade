@@ -11,9 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+%7C+AI+Automation+%7C+Linux+%7C+Open+Source" alt="Typing SVG" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AtharvaDevgade&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![wakatime](https://wakatime.com/badge/user/a1b2c3d4-e5f6-7890-abcd-ef1234567890.svg)](https://wakatime.com/@AtharvaDevgade)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AtharvaDevgade&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
