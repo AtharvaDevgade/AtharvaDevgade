@@ -276,7 +276,22 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/AtharvaDevgade/AtharvaDevgade/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<img src="assets/snake-game.svg" alt="Snake Game" width="100%"/>
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  SNAKE GAME v1.0                                             │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  CONTROLS:  Auto-pilot mode enabled                         │
+│  LOOP:      Perpetual motion activated                       │
+│  APPLE:     Teleporting every 2 seconds                      │
+│  STATUS:    Cannot stop, won't stop                          │
+│                                                              │
+│  "The snake that never sleeps."                              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
