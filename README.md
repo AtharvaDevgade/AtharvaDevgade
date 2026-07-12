@@ -278,23 +278,23 @@
 
 ---
 
-## `> cat snake.log`
+## `> cat binary-rain.log`
 
 <div align="center">
 
-<img src="assets/snake-game.svg" alt="Snake Game" width="100%"/>
+<img src="assets/binary-rain.svg" alt="Binary Rain" width="100%"/>
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  SNAKE GAME v1.0                                             │
+│  BINARY RAIN v1.0                                            │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  CONTROLS:  Auto-pilot mode enabled                         │
-│  LOOP:      Perpetual motion activated                       │
-│  APPLE:     Teleporting every 2 seconds                      │
-│  STATUS:    Cannot stop, won't stop                          │
+│  STATUS:    Matrix mode activated                            │
+│  SPEED:     Asynchronous columns                             │
+│  DEPTH:     Multi-layer grayscale                             │
+│  CYCLE:     Infinite loop                                    │
 │                                                              │
-│  "The snake that never sleeps."                              │
+│  "The Matrix has you..."                                     │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```

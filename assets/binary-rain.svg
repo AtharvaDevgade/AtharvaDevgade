@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="100%" height="200">
+  <style>
+    text { font-family: monospace; }
+  </style>
+  <rect width="600" height="200" fill="#000"/>
+
+  <!-- Column 1 -->
+  <g fill="#555" font-size="12" opacity="0.7">
+    <text x="5" y="-10">0<animate attributeName="y" from="-20" to="220" dur="3s" repeatCount="indefinite"/></text>
+    <text x="5" y="-40">1<animate attributeName="y" from="-50" to="220" dur="3s" repeatCount="indefinite"/></text>
+    <text x="5" y="-60">0<animate attributeName="y" from="-70" to="220" dur="3s" repeatCount="indefinite"/></text>
+    <text x="5" y="-80">1<animate attributeName="y" from="-90" to="220" dur="3s" repeatCount="indefinite"/></text>
+    <text x="5" y="-100">0<animate attributeName="y" from="-110" to="220" dur="3s" repeatCount="indefinite"/></text>
+    <text x="5" y="-120">1<animate attributeName="y" from="-130" to="220" dur="3s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 2 -->
+  <g fill="#777" font-size="12" opacity="0.6">
+    <text x="40" y="-5">1<animate attributeName="y" from="-15" to="220" dur="4.5s" repeatCount="indefinite"/></text>
+    <text x="40" y="-35">0<animate attributeName="y" from="-45" to="220" dur="4.5s" repeatCount="indefinite"/></text>
+    <text x="40" y="-55">1<animate attributeName="y" from="-65" to="220" dur="4.5s" repeatCount="indefinite"/></text>
+    <text x="40" y="-75">0<animate attributeName="y" from="-85" to="220" dur="4.5s" repeatCount="indefinite"/></text>
+    <text x="40" y="-95">1<animate attributeName="y" from="-105" to="220" dur="4.5s" repeatCount="indefinite"/></text>
+    <text x="40" y="-115">0<animate attributeName="y" from="-125" to="220" dur="4.5s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 3 -->
+  <g fill="#444" font-size="12" opacity="0.5">
+    <text x="75" y="-15">0<animate attributeName="y" from="-25" to="220" dur="5.5s" repeatCount="indefinite"/></text>
+    <text x="75" y="-45">1<animate attributeName="y" from="-55" to="220" dur="5.5s" repeatCount="indefinite"/></text>
+    <text x="75" y="-65">0<animate attributeName="y" from="-75" to="220" dur="5.5s" repeatCount="indefinite"/></text>
+    <text x="75" y="-85">1<animate attributeName="y" from="-95" to="220" dur="5.5s" repeatCount="indefinite"/></text>
+    <text x="75" y="-105">0<animate attributeName="y" from="-115" to="220" dur="5.5s" repeatCount="indefinite"/></text>
+    <text x="75" y="-125">1<animate attributeName="y" from="-135" to="220" dur="5.5s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 4 - brighter leading -->
+  <g font-size="13">
+    <text fill="#aaa" x="110" y="-10">0<animate attributeName="y" from="-20" to="220" dur="3.8s" repeatCount="indefinite"/></text>
+    <text fill="#666" x="110" y="-35">1<animate attributeName="y" from="-45" to="220" dur="3.8s" repeatCount="indefinite"/></text>
+    <text fill="#555" x="110" y="-55">0<animate attributeName="y" from="-65" to="220" dur="3.8s" repeatCount="indefinite"/></text>
+    <text fill="#444" x="110" y="-75">1<animate attributeName="y" from="-85" to="220" dur="3.8s" repeatCount="indefinite"/></text>
+    <text fill="#333" x="110" y="-95">0<animate attributeName="y" from="-105" to="220" dur="3.8s" repeatCount="indefinite"/></text>
+    <text fill="#222" x="110" y="-115">1<animate attributeName="y" from="-125" to="220" dur="3.8s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 5 -->
+  <g fill="#888" font-size="12" opacity="0.65">
+    <text x="145" y="-8">1<animate attributeName="y" from="-18" to="220" dur="2.8s" repeatCount="indefinite"/></text>
+    <text x="145" y="-38">0<animate attributeName="y" from="-48" to="220" dur="2.8s" repeatCount="indefinite"/></text>
+    <text x="145" y="-58">1<animate attributeName="y" from="-68" to="220" dur="2.8s" repeatCount="indefinite"/></text>
+    <text x="145" y="-78">0<animate attributeName="y" from="-88" to="220" dur="2.8s" repeatCount="indefinite"/></text>
+    <text x="145" y="-98">1<animate attributeName="y" from="-108" to="220" dur="2.8s" repeatCount="indefinite"/></text>
+    <text x="145" y="-118">0<animate attributeName="y" from="-128" to="220" dur="2.8s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 6 -->
+  <g fill="#555" font-size="12" opacity="0.55">
+    <text x="180" y="-12">0<animate attributeName="y" from="-22" to="220" dur="5s" repeatCount="indefinite"/></text>
+    <text x="180" y="-42">1<animate attributeName="y" from="-52" to="220" dur="5s" repeatCount="indefinite"/></text>
+    <text x="180" y="-62">0<animate attributeName="y" from="-72" to="220" dur="5s" repeatCount="indefinite"/></text>
+    <text x="180" y="-82">1<animate attributeName="y" from="-92" to="220" dur="5s" repeatCount="indefinite"/></text>
+    <text x="180" y="-102">0<animate attributeName="y" from="-112" to="220" dur="5s" repeatCount="indefinite"/></text>
+    <text x="180" y="-122">1<animate attributeName="y" from="-132" to="220" dur="5s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 7 - brighter -->
+  <g font-size="13">
+    <text fill="#ccc" x="215" y="-5">1<animate attributeName="y" from="-15" to="220" dur="3.2s" repeatCount="indefinite"/></text>
+    <text fill="#888" x="215" y="-30">0<animate attributeName="y" from="-40" to="220" dur="3.2s" repeatCount="indefinite"/></text>
+    <text fill="#666" x="215" y="-50">1<animate attributeName="y" from="-60" to="220" dur="3.2s" repeatCount="indefinite"/></text>
+    <text fill="#444" x="215" y="-70">0<animate attributeName="y" from="-80" to="220" dur="3.2s" repeatCount="indefinite"/></text>
+    <text fill="#333" x="215" y="-90">1<animate attributeName="y" from="-100" to="220" dur="3.2s" repeatCount="indefinite"/></text>
+    <text fill="#222" x="215" y="-110">0<animate attributeName="y" from="-120" to="220" dur="3.2s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 8 -->
+  <g fill="#777" font-size="12" opacity="0.6">
+    <text x="250" y="-6">0<animate attributeName="y" from="-16" to="220" dur="4.2s" repeatCount="indefinite"/></text>
+    <text x="250" y="-36">1<animate attributeName="y" from="-46" to="220" dur="4.2s" repeatCount="indefinite"/></text>
+    <text x="250" y="-56">0<animate attributeName="y" from="-66" to="220" dur="4.2s" repeatCount="indefinite"/></text>
+    <text x="250" y="-76">1<animate attributeName="y" from="-86" to="220" dur="4.2s" repeatCount="indefinite"/></text>
+    <text x="250" y="-96">0<animate attributeName="y" from="-106" to="220" dur="4.2s" repeatCount="indefinite"/></text>
+    <text x="250" y="-116">1<animate attributeName="y" from="-126" to="220" dur="4.2s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 9 -->
+  <g fill="#444" font-size="12" opacity="0.5">
+    <text x="285" y="-14">1<animate attributeName="y" from="-24" to="220" dur="6s" repeatCount="indefinite"/></text>
+    <text x="285" y="-44">0<animate attributeName="y" from="-54" to="220" dur="6s" repeatCount="indefinite"/></text>
+    <text x="285" y="-64">1<animate attributeName="y" from="-74" to="220" dur="6s" repeatCount="indefinite"/></text>
+    <text x="285" y="-84">0<animate attributeName="y" from="-94" to="220" dur="6s" repeatCount="indefinite"/></text>
+    <text x="285" y="-104">1<animate attributeName="y" from="-114" to="220" dur="6s" repeatCount="indefinite"/></text>
+    <text x="285" y="-124">0<animate attributeName="y" from="-134" to="220" dur="6s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 10 - brighter -->
+  <g font-size="13">
+    <text fill="#bbb" x="320" y="-9">0<animate attributeName="y" from="-19" to="220" dur="3.5s" repeatCount="indefinite"/></text>
+    <text fill="#777" x="320" y="-34">1<animate attributeName="y" from="-44" to="220" dur="3.5s" repeatCount="indefinite"/></text>
+    <text fill="#555" x="320" y="-54">0<animate attributeName="y" from="-64" to="220" dur="3.5s" repeatCount="indefinite"/></text>
+    <text fill="#444" x="320" y="-74">1<animate attributeName="y" from="-84" to="220" dur="3.5s" repeatCount="indefinite"/></text>
+    <text fill="#333" x="320" y="-94">0<animate attributeName="y" from="-104" to="220" dur="3.5s" repeatCount="indefinite"/></text>
+    <text fill="#222" x="320" y="-114">1<animate attributeName="y" from="-124" to="220" dur="3.5s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 11 -->
+  <g fill="#666" font-size="12" opacity="0.65">
+    <text x="355" y="-11">1<animate attributeName="y" from="-21" to="220" dur="4.8s" repeatCount="indefinite"/></text>
+    <text x="355" y="-41">0<animate attributeName="y" from="-51" to="220" dur="4.8s" repeatCount="indefinite"/></text>
+    <text x="355" y="-61">1<animate attributeName="y" from="-71" to="220" dur="4.8s" repeatCount="indefinite"/></text>
+    <text x="355" y="-81">0<animate attributeName="y" from="-91" to="220" dur="4.8s" repeatCount="indefinite"/></text>
+    <text x="355" y="-101">1<animate attributeName="y" from="-111" to="220" dur="4.8s" repeatCount="indefinite"/></text>
+    <text x="355" y="-121">0<animate attributeName="y" from="-131" to="220" dur="4.8s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 12 -->
+  <g fill="#555" font-size="12" opacity="0.55">
+    <text x="390" y="-7">0<animate attributeName="y" from="-17" to="220" dur="5.2s" repeatCount="indefinite"/></text>
+    <text x="390" y="-37">1<animate attributeName="y" from="-47" to="220" dur="5.2s" repeatCount="indefinite"/></text>
+    <text x="390" y="-57">0<animate attributeName="y" from="-67" to="220" dur="5.2s" repeatCount="indefinite"/></text>
+    <text x="390" y="-77">1<animate attributeName="y" from="-87" to="220" dur="5.2s" repeatCount="indefinite"/></text>
+    <text x="390" y="-97">0<animate attributeName="y" from="-107" to="220" dur="5.2s" repeatCount="indefinite"/></text>
+    <text x="390" y="-117">1<animate attributeName="y" from="-127" to="220" dur="5.2s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 13 - brighter -->
+  <g font-size="13">
+    <text fill="#ddd" x="425" y="-4">1<animate attributeName="y" from="-14" to="220" dur="2.5s" repeatCount="indefinite"/></text>
+    <text fill="#999" x="425" y="-29">0<animate attributeName="y" from="-39" to="220" dur="2.5s" repeatCount="indefinite"/></text>
+    <text fill="#777" x="425" y="-49">1<animate attributeName="y" from="-59" to="220" dur="2.5s" repeatCount="indefinite"/></text>
+    <text fill="#555" x="425" y="-69">0<animate attributeName="y" from="-79" to="220" dur="2.5s" repeatCount="indefinite"/></text>
+    <text fill="#444" x="425" y="-89">1<animate attributeName="y" from="-99" to="220" dur="2.5s" repeatCount="indefinite"/></text>
+    <text fill="#333" x="425" y="-109">0<animate attributeName="y" from="-119" to="220" dur="2.5s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 14 -->
+  <g fill="#888" font-size="12" opacity="0.6">
+    <text x="460" y="-13">0<animate attributeName="y" from="-23" to="220" dur="3.6s" repeatCount="indefinite"/></text>
+    <text x="460" y="-43">1<animate attributeName="y" from="-53" to="220" dur="3.6s" repeatCount="indefinite"/></text>
+    <text x="460" y="-63">0<animate attributeName="y" from="-73" to="220" dur="3.6s" repeatCount="indefinite"/></text>
+    <text x="460" y="-83">1<animate attributeName="y" from="-93" to="220" dur="3.6s" repeatCount="indefinite"/></text>
+    <text x="460" y="-103">0<animate attributeName="y" from="-113" to="220" dur="3.6s" repeatCount="indefinite"/></text>
+    <text x="460" y="-123">1<animate attributeName="y" from="-133" to="220" dur="3.6s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 15 -->
+  <g fill="#666" font-size="12" opacity="0.5">
+    <text x="495" y="-16">1<animate attributeName="y" from="-26" to="220" dur="6.5s" repeatCount="indefinite"/></text>
+    <text x="495" y="-46">0<animate attributeName="y" from="-56" to="220" dur="6.5s" repeatCount="indefinite"/></text>
+    <text x="495" y="-66">1<animate attributeName="y" from="-76" to="220" dur="6.5s" repeatCount="indefinite"/></text>
+    <text x="495" y="-86">0<animate attributeName="y" from="-96" to="220" dur="6.5s" repeatCount="indefinite"/></text>
+    <text x="495" y="-106">1<animate attributeName="y" from="-116" to="220" dur="6.5s" repeatCount="indefinite"/></text>
+    <text x="495" y="-126">0<animate attributeName="y" from="-136" to="220" dur="6.5s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 16 - brighter -->
+  <g font-size="13">
+    <text fill="#aaa" x="530" y="-3">0<animate attributeName="y" from="-13" to="220" dur="4s" repeatCount="indefinite"/></text>
+    <text fill="#666" x="530" y="-28">1<animate attributeName="y" from="-38" to="220" dur="4s" repeatCount="indefinite"/></text>
+    <text fill="#555" x="530" y="-48">0<animate attributeName="y" from="-58" to="220" dur="4s" repeatCount="indefinite"/></text>
+    <text fill="#444" x="530" y="-68">1<animate attributeName="y" from="-78" to="220" dur="4s" repeatCount="indefinite"/></text>
+    <text fill="#333" x="530" y="-88">0<animate attributeName="y" from="-98" to="220" dur="4s" repeatCount="indefinite"/></text>
+    <text fill="#222" x="530" y="-108">1<animate attributeName="y" from="-118" to="220" dur="4s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 17 -->
+  <g fill="#777" font-size="12" opacity="0.65">
+    <text x="565" y="-9">1<animate attributeName="y" from="-19" to="220" dur="3.3s" repeatCount="indefinite"/></text>
+    <text x="565" y="-39">0<animate attributeName="y" from="-49" to="220" dur="3.3s" repeatCount="indefinite"/></text>
+    <text x="565" y="-59">1<animate attributeName="y" from="-69" to="220" dur="3.3s" repeatCount="indefinite"/></text>
+    <text x="565" y="-79">0<animate attributeName="y" from="-89" to="220" dur="3.3s" repeatCount="indefinite"/></text>
+    <text x="565" y="-99">1<animate attributeName="y" from="-109" to="220" dur="3.3s" repeatCount="indefinite"/></text>
+    <text x="565" y="-119">0<animate attributeName="y" from="-129" to="220" dur="3.3s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Column 18 - extra dim -->
+  <g fill="#444" font-size="11" opacity="0.4">
+    <text x="28" y="-18">1<animate attributeName="y" from="-28" to="220" dur="7s" repeatCount="indefinite"/></text>
+    <text x="28" y="-48">0<animate attributeName="y" from="-58" to="220" dur="7s" repeatCount="indefinite"/></text>
+    <text x="28" y="-68">1<animate attributeName="y" from="-78" to="220" dur="7s" repeatCount="indefinite"/></text>
+    <text x="28" y="-88">0<animate attributeName="y" from="-98" to="220" dur="7s" repeatCount="indefinite"/></text>
+    <text x="28" y="-108">1<animate attributeName="y" from="-118" to="220" dur="7s" repeatCount="indefinite"/></text>
+    <text x="28" y="-128">0<animate attributeName="y" from="-138" to="220" dur="7s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Overlay fade -->
+  <rect x="0" y="0" width="600" height="30" fill="url(#fadeTop)" opacity="0"/>
+  <rect x="0" y="180" width="600" height="20" fill="url(#fadeBottom)" opacity="0"/>
+</svg>
